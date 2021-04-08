@@ -1,0 +1,3 @@
+known issues:
+	|some textures occur twice (1x in the overworld and 1x in the nether)
+	|piglins should be villager textures and zombified piglins should be zombie villagers
